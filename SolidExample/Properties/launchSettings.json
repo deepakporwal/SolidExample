@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SolidExample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
